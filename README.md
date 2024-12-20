@@ -68,9 +68,6 @@ Este projeto é uma automação para realizar consultas de débitos no site da P
 - **[OpenPyXL](https://openpyxl.readthedocs.io/)**: Manipulação de arquivos Excel.
 - **[AntiCaptcha](https://anti-captcha.com/)**: Resolução automática de reCAPTCHA.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Contato
 - **Autor**: Matheus Madureira da Fonseca
 - **E-mail**: madureira-matheus@hotmail.com
