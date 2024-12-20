@@ -72,7 +72,5 @@ Este projeto é uma automação para realizar consultas de débitos no site da P
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
-- **Autor**: Seu Nome
-- **E-mail**: seu.email@dominio.com
-- **GitHub**: [Seu GitHub](https://github.com/seu_usuario)
-
+- **Autor**: Matheus Madureira da Fonseca
+- **E-mail**: madureira-matheus@hotmail.com
